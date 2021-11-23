@@ -1,0 +1,18 @@
+popbill:
+  linkId: TESTER222
+  secretKey: SwWxqU+0TErBXy/9TVjIPEnI0VTUMMSQZtJf3Ed8q3I=
+  test: true
+  useStaticIp: false
+  useGaIp: false
+  useLocalTimeYn: true
+  ipRestrectOnOff: true
+  authUrl:
+  serviceUrl: 
+  testServiceUrl: 
+  proxyIp: 
+  proxyPort:
+  
+spring:
+  thymeleaf:
+    cache: false
+    
